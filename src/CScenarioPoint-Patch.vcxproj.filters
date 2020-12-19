@@ -24,9 +24,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Hooking.h" />
-    <ClInclude Include="CScenarioPoint.h" />
-    <ClInclude Include="CScenarioPointRegion.h" />
-    <ClInclude Include="atArray.h" />
+    <ClInclude Include="local.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="dependencies">
